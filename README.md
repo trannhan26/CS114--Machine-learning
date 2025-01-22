@@ -8,7 +8,7 @@
 
 
 
-## **CS114.M11- MACHINE LEARNING - UIT**
+## **Máy học**
 
 ### Giáo viên hướng dẫn
 
